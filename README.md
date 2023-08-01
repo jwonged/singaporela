@@ -1,10 +1,10 @@
-# singapore -- TODOs and DONTs
+# singapore — TODOs and DONTs
 
 ## Places to visit
 Gardens by the Bay -- buy tickets to go into the dome.  
-Zoo, in particular the night safari; Jurong bird park is also probably nice.  
+Zoo, in particular the night safari; New bird park is also quite cool.  
 Jewel, the airport -- theres a netting playground on the roof. also the dome is cool. also there's quite a bit of nice food there.  
-Sentosa -- Luge (fun, bumper car race type thing), Siloso beach or any beach there.  
+Sentosa -- Luge (fun, bumper car race type thing), Siloso beach or any beach there.
 Take a cable car to Sentosa.  
 East coast -- roller blading if you want. its also a beach and stuff.  cycling
 Botanic gardens -- nature.  
@@ -13,7 +13,7 @@ Ion orchard -- shopping and stuff.
 Bugis street -- hanging out, cheap stuff. 
 Timbre+ -- good night time hangout -- there's a band and food and stuff. 
 Haji Lane / Arab Street / Kampong Glam
-Clarke Quay
+Clarke Quay - bars by the river.
 Little India / Chinatown
 Fort Canning Park
 
@@ -33,7 +33,7 @@ Fort Canning Park
     - Tim Ho wan (many outlets)
 - Char Kway Teow -- various places around singapore; google which one is nice
 - Katong Laksa
-- Ba chor mee
+- Ba chor mee - various places.
 - Tiong bahru bakery
 - Chomp chomp  near Wimbly lu, SriSun express and RK
     - hokkien mee
@@ -51,7 +51,7 @@ Fort Canning Park
 
 
 ### Breakfast
-- Ya Kun (kaya toast set breakfast with half boiled eggs)
+- Ya Kun (kaya toast set breakfast with half boiled eggs) - various outlets
 - Milo
 
 ### dessert
